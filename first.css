@@ -1,2 +1,24 @@
 
 
+
+
+.image {
+    display: grid;
+    grid-template-columns: 5fr 15fr;
+    width: 50%;
+    margin-right: 25%;
+    margin-left: 25%;
+  
+    background: rgb(193, 172, 212);
+    color: rgb(103, 61, 150);
+    align-items: center;
+    padding: 0px 0px 0px 1rem;
+  
+  }
+
+.image img {
+    width: 50%;
+    height: 100%;
+    margin-right: 25%;
+    margin-left: 25%;
+}
