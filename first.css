@@ -1,3 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    
+    
+}
+
+
+body {
+    background-image: url('background.JPG');
+    background-size: cover;
+    text-align: center;
+  }
+
+a {
+    color: blueviolet;
+}
+
+
+
+
 
 
 
